@@ -1,6 +1,6 @@
 # A simple vue carousel implemented using vueuse
 
-![](./playground/src/public/demo.webm)
+![](./playground/src/public/demo.gif)
 
 Example Usage:
 ```ts
