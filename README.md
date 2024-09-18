@@ -1,5 +1,7 @@
 # A simple vue carousel implemented using vueuse
 
+![](./playground/src/public/demo.webm)
+
 Example Usage:
 ```ts
 <script setup lang="ts">
